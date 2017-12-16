@@ -1,0 +1,17 @@
+
+@import url('https://fonts.googleapis.com/css?family=Carrois+Gothic|Carrois+Gothic+SC|Fontdiner+Swanky');
+
+body {
+  font-family: 'Carrois Gothic', sans-serif;
+}
+h1 {
+  font-family: 'Fontdiner Swanky';
+}
+
+h4 {
+  font-family: 'Fontdiner Swanky';
+}
+
+/*font-family: 'Carrois Gothic', sans-serif;
+font-family: 'Carrois Gothic SC', sans-serif;
+font-family: 'Fontdiner Swanky', cursive;*/
